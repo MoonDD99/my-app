@@ -24,6 +24,8 @@ function Cities(){
             <div>
                 <CityList cities={cityState} />
             </div>
+
+            
         </div>
     );
 }

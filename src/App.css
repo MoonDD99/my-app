@@ -45,3 +45,15 @@
   padding-left: 0;
   list-style: none;
 }
+
+.new {
+  background-color: #61dafb;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: stretch;
+  margin: 20px 1em 20px 1em;
+  padding-left: 100;
+  list-style: none;
+}
